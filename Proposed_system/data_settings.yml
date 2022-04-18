@@ -1,0 +1,20 @@
+# Data settings
+
+# data_path - absolute path with files from 5 classes
+# unseen_path - absolute path with unseen files
+# new_data_path - absolute path for new folder with data
+# ffmpeg_path - absolute path to ffmpeg binaries
+# save_model_path - absolute path for new folder with saved models and logs
+# pretrained_model_path - absolute path for model to evaluate
+
+# Training
+data_path:  datasets/spcup_2022_training_part1
+unseen_path: datasets/spcup_2022_unseen
+new_data_path: datasets/new_data
+ffmpeg_path: /usr/bin/ffmpeg
+save_model_path: model
+
+# Evaluation
+pretrained_model_path: model.41
+eval_path_part1: datasets/spcup_2022_eval_part1
+eval_path_part2: datasets/spcup_2022_eval_part2
