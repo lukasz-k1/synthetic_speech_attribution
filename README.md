@@ -1,10 +1,6 @@
 >This repository presents the AGH Acoustic team's work on the SPCUP 2022.
 
-In the Evaluated systems directory you can find our attempts and research on challange. Final system is in the Proposed system directory.
+In the `Evaulated_systems` directory you can find some of the systems that were tested and led us to the final solution. You can find the final solution in the `Proposed_system` directory. 
 
-Our research paper on this challange:
+If you want to learn more about the challenge and our results, please read the technical report: 
 - https://drive.google.com/file/d/1_lHilW0T0HmdWrSCRKUJ_Py_JvAGcpNa/view?usp=sharing
-
-More on SPCUP 2022 challange you can find here: 
-- https://signalprocessingsociety.org/sites/default/files/uploads/community_involvement/docs/2022_SP_Cup.pdf
-- https://2022.ieeeicassp.org/signal_processing_cup.php
